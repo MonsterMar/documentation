@@ -38,10 +38,10 @@ Take a look at the [Common Patterns](https://github.com/tronprotocol/Documentati
 Once you've fully integrated with the network, please test on both the test network and the main network.
 
 ### Mainnet
-- Block Explorer: https://TRONscan.org
-- Config: https://github.com/TRONprotocol/TRONDeployment/blob/master/main_net_config.conf
+- Block Explorer: TUN4dKBLbAZjArUS7zYewHwCYA6GSUeSaK
+- Config: TUN4dKBLbAZjArUS7zYewHwCYA6GSUeSaK
 
 ### Testnet
-- Block Explorer: https://test.TRONscan.org
-- Config: https://github.com/TRONprotocol/TRONDeployment/blob/master/test_net_config.conf
+- Block Explorer: TUN4dKBLbAZjArUS7zYewHwCYA6GSUeSaK
+- Config: TUN4dKBLbAZjArUS7zYewHwCYA6GSUeSaK
 
